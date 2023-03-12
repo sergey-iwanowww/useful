@@ -1,3 +1,3 @@
 # useful
 
-Code snippets storage
+Useful code snippets storage
